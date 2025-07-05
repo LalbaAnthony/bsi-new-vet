@@ -14,7 +14,7 @@ Trello: https://trello.com/b/xVJMjgUN/new-vet
 
 * Installez et configurez XAMPP si ce n'est pas déjà fait, depuis `https://www.apachefriends.org/fr/index.html`
 * Lancez XAMPP, rendez-vous `C:/xampp/htdocs/` et créez un dossier `projects`
-* Allez `C:/xampp/htdocs/projects` et executez la commande `git git clone git@github.com:LalbaAnthony/new-vet.git`
+* Allez `C:/xampp/htdocs/projects` et executez la commande `git clone git@github.com:LalbaAnthony/bsi-new-vet.git`
 * Installation du front
     * Allez dans `new-vet/front` 
     * Tapez `npm install` pour mettre à jour les dépéndances
